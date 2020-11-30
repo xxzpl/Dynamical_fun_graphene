@@ -1,0 +1,49 @@
+! only change the number arfer "="
+!%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     RNprime (unit/~E13.cm^{-2} )=  14.000
+     Eerror of Precision=                     0.1
+
+
+
+end of file!
+!====
+     RNprime (unit/~E13.cm^{-2} )=  2.100
+     Eerror of Eprecision=                     0.04
+	 E0error(unit/deltaX)=          1.0
+	
+	
+     RNprime (unit/~E13.cm^{-2} )=  2.000
+     Eerror of Eprecision=                     0.04
+	 E0error(unit/deltaX)=          1.0	 
+	 
+	 
+     RNprime (unit/~E13.cm^{-2} )=  2.5000
+     Eerror of Eprecision=                     0.06
+	 E0error(unit/deltaX)=          1.0
+
+
+     RNprime (unit/~E13.cm^{-2} )=  2.8000
+     Eerror of Eprecision=                     0.1
+	 E0error(unit/deltaX)=          1.0
+	 
+
+     RNprime (unit/~E13.cm^{-2} )=  3.000
+     Eerror of Eprecision=                     0.3
+	 E0error(unit/deltaX)=          1.0	 
+	 
+	 
+     RNprime (unit/~E13.cm^{-2} )=  4.000
+     Eerror of Eprecision=                     0.1
+	 E0error(unit/deltaX)=          1.0	 
+	 
+	 
+     RNprime (unit/~E13.cm^{-2} )=  5.000
+     Eerror of Eprecision=                     0.3
+	 E0error(unit/deltaX)=          1.0
+	 
+
+     RNprime (unit/~E13.cm^{-2} )=  15.000
+     Eerror of Eprecision=                     0.4
+	 E0error(unit/deltaX)=          1.0	 
+	 
+	 
